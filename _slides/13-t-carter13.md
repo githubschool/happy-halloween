@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Gimme yo gifts!
 
-![inflatocat](https://octodex.github.com/images/inflatocat.png)
+![inflatocat](https://octodex.github.com/images/grinchtocat.gif)
 {: .center}
