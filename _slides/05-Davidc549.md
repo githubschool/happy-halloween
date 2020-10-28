@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Davidc549's slide!"
 ---
 
 my first git attempt
