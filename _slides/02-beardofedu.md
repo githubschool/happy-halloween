@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to beardofedu's slide!"
 ---
 
-Caption here
+Slicing through feature requests!
 
 ![dojocat](https://octodex.github.com/images/dojocat.jpg)
 {: .center}
