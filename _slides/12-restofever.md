@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+no more email email!
 
-![defunktocat](https://octodex.github.com/images/defunktocat.png)
+![strongbadtocat](https://octodex.github.com/images/strongbadtocat.png)
 {: .center}
